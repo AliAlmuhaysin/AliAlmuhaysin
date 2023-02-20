@@ -19,7 +19,7 @@
 
 |Web-Development|AI & ML|
 |:---:|:---:|
-|[![My Skills](https://skillicons.dev/icons?i=dotnet,django,bootstrap)]()|<img id="badge" src="assets/anaconda.svg" title="Anaconda"/> [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)]()|
+|[![My Skills](https://skillicons.dev/icons?i=dotnet,django,bootstrap)]()|<img id="badge" src="assets/test.svg" title="Anaconda"/> [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)]()|
 
 
 ### Tools & Techniques:
