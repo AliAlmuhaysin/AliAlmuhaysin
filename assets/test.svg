@@ -12,7 +12,7 @@
         }
       </style>
 
-      <img id="badge" src="anaconda.svg" title="Anaconda"/>
+      <img id="badge" src="assets/anaconda.svg" title="Anaconda"/>
     </div>
   </foreignObject>
 </svg>
