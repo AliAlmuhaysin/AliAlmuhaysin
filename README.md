@@ -26,7 +26,7 @@
 
 |IDEs|DBMS|
 |:---:|:---:|
-|<img id="badge" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" title="JetBrains PyCharm"/> [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode&perline=3)]()|<img id="badge" src="assets/db2.svg" title="IBM DB2"/> [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql&perline=3)]()|
+|<img id="badge" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" title="JetBrains PyCharm" style="background-color: #242938;padding:6px;border-radius: 10px;width:36px:margin-right: 4px"/> [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode&perline=3)]()|<img id="badge" src="assets/db2.svg" title="IBM DB2"/> [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql&perline=3)]()|
 
 
 |Cloud|Other Tools|
